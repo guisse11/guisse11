@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guisse11
+- 👀 I’m interested in AI and data analytics
+- 🌱 I’m currently learning data analytics
